@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built With: 
+
+1. React
+2. useState() hook
+3. CoinGecko API
+4. Axios
+5. CSS
+
+## Demo: 
+
+https://incomparable-crumble-735f3a.netlify.app/
+
+![image](https://i.ibb.co/Gc46k35/cryptosite.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
