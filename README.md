@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo: 
 
-https://incomparable-crumble-735f3a.netlify.app/
+https://charming-concha-40b7d8.netlify.app/
 
 ![image](https://i.ibb.co/Gc46k35/cryptosite.png)
 
