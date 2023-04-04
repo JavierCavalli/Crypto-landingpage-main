@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Uno de los primeros proyectos que hice con react para probar hooks, llamadas a una api (axios) y pruebas de css.
 
 ## Built With: 
 
