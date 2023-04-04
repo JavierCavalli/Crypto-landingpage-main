@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Uno de los primeros proyectos que hice con react para probar hooks, llamadas a una api (axios) y pruebas de css.
+Uno de los primeros proyectos que hice con react para probar hooks, llamadas a una api con axios (coingecko API) y pruebas de css.
 
 ## Built With: 
 
