@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Uno de los primeros proyectos que hice con react para probar hooks, llamadas a una api con axios (coingecko API) y pruebas de css.
+I created this React project to test hooks, make API calls with Axios (using the CoinGecko API), and experiment with CSS. The project focuses on managing state with React hooks, fetching cryptocurrency data, testing UI designs to make a simple landing page with several sections.
 
 ## Built With: 
 
